@@ -6,17 +6,16 @@
         <img src="https://img.shields.io/github/stars/anass1209/anass1209" alt="Stars Badge"/></a>
     <a href="https://github.com/anass1209/anass1209/network/members">
         <img src="https://img.shields.io/github/forks/anass1209/anass1209" alt="Forks Badge"/></a>
-  <a href="https://github.com/anass1209/anass1209/pulls">
+    <a href="https://github.com/anass1209/anass1209/pulls">
         <img src="https://img.shields.io/github/issues-pr/anass1209/anass1209?color=orange" alt="Pull Requests Badge"/></a>
     <a href="https://github.com/anass1209/anass1209/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/anass1209/anass1209?color=2b9348" alt="GitHub contributors"/></a>
-   <a href="https://github.com/anass1209" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" style="max-width: 100%; height: auto;"></a>
-<a href="https://www.linkedin.com/in/anass-el-achham/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-anass--el--achham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anass-el-achham/" alt="LinkedIn: anass-el-achham" style="max-width: 100%; height: auto;"></a>
-<a href="https://anass1209.github.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website" style="max-width: 100%; height: auto;"></a>
-
+    <a href="https://github.com/anass1209" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" style="max-width: 100%; height: auto;"></a>
+    <a href="https://www.linkedin.com/in/anass-el-achham/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-anass--el--achham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anass-el-achham/" alt="LinkedIn: anass-el-achham" style="max-width: 100%; height: auto;"></a>
+    <a href="https://anass1209.github.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website" style="max-width: 100%; height: auto;"></a>
 </div>
 <br>
 <p align="center" dir="auto">
@@ -38,7 +37,7 @@
 
 <ul dir="auto">
   <li>🏫 I am a <code>Master's Student in Artificial Intelligence & Cloud Computing</code> at the Faculty of Sciences and Technology, Beni Mellal.</li>
-  <li>🔭 I’m currently working on personal projects involving <code>Generative AI, LLMs, and RAG</code> (e.g., SQL Query Assistant, QuizGenius).</li>
+  <li>🔭 I'm currently working on personal projects involving <code>Generative AI, LLMs, and RAG</code> (e.g., SQL Query Assistant, QuizGenius).</li>
   <li>📫 How to reach me: <strong><a href="mailto:anas.elachham@gmail.com"><code>anas.elachham@gmail.com</code></a></strong></li>
   <li>🤓 Always <code>learning new technologies</code> and exploring the latest advances in AI.</li>
   <li>⚡ Fun fact: I'm passionate about leveraging AI to solve real-world problems and build innovative applications!</li>
@@ -65,7 +64,6 @@
 <a href="https://anass1209.github.io/" target="_blank" title="Portfolio" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"
         alt="Portfolio Website" style="max-width: 100%; height: auto;"></a>
-  <!-- Add other social links here if you have them -->
 </p>
 
 <h2 dir="auto">🛠 Languages and Tools</h2>
@@ -105,59 +103,24 @@
   Github Stats
 </h2>
 
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anass1209&theme=monokai"
-  alt="Anass El-achham's Profile Details" width="100%">
-
-<br>
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anass1209&show_icons=true&theme=radical" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anass1209&layout=compact&theme=radical" alt="Top Languages" width="49%">
+</p>
 
 <p align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anass1209&theme=monokai"
-    alt="Repos Per Language" width="49%">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anass1209&theme=monokai"
-    alt="GitHub Stats" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anass1209&theme=radical" alt="Profile Details" width="100%">
 </p>
-<br>
+
 <br>
 
+<!-- Technologie Icons -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" alt="Python">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100" alt="CSS">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="100" alt="PostgreSQL">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="100" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="80" alt="TensorFlow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80" alt="CSS">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="80" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="80" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80" alt="Docker">
 </p>
-<br>
-
-<!-- Commenting out Top Followers section from original template
----
-
-<div align="center" style="background-color: black; padding: 20px;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=E28905¢er=true&vCenter=true&repeat=false&random=false&width=1000&lines=Top+followers%3A"
-           alt="Typing SVG"/></a>
-    <table>
-         <tr>
-        <td align="center" style="margin-right: 5px;">
-            <a href="https://github.com/...">
-                <img src="..." width="75px" alt="..." />
-                <br />
-                <sub>...</sub>
-            </a>
-        </td>
-        <td align="center" style="margin-left: 5px;">
-            <a href="https://github.com/...">
-                <img src="..." width="75px" alt="..." />
-                <br />
-                <sub>...</sub>
-            </a>
-        </td>
-    </tr>
-      <tr>
-      <td colspan="2" style="height: 20px; background-color: #f0f0f0;"></td>
-      </tr>
-    </table>
-</div>
--->
